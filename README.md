@@ -9,8 +9,9 @@ Um projeto que fiz com intuito de melhorar minha noção utilizando React.
 Para fazer o uso desse projeto corretamente rode:
 
 ```bash
-  npm install or yarn install
+  npm install 
 ```
+
 
 
 ## Funcionalidades
