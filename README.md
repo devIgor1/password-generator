@@ -4,11 +4,6 @@
 Um projeto que fiz com intuito de melhorar minha noção utilizando React.
 
 É um gerador de senhas, nele é possível alterar a forma na qual sua senha será gerada, alternando desde letras maiúsculas e minúsculas até números e símbolos. É possível escolher o número de caracteres que será gerado também.
-## Documentação
-
-[Documentação](https://link-da-documentação)
-
-
 ## Dependencias Necessárias
 
 Para fazer o uso desse projeto corretamente rode:
