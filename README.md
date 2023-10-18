@@ -18,7 +18,7 @@ Para fazer o uso desse projeto corretamente rode:
 
 - Escolher se terá ou não símbolos e números
 - Senha gerada em tempo real
-- Alternar quantidade de caracteres
+- Escolher a quantidade de caracteres
 - Multiplataforma
 - Alternar a senha entre letras maiúsculas e minúsculas
 
